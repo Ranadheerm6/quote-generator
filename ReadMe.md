@@ -1,1 +1,1 @@
-This project was done as part of the ZTM course taught by Andrei Neagoie, titled "Javascript web projects: 20 projects to build your portfolio"
+This project was done as part of the ZTM course taught by Andrei Neagoie, titled "Javascript web projects: 20 projects to build your portfolio."
